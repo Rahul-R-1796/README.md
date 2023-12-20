@@ -21,7 +21,7 @@
 
 Feel free to explore my resume for more details.
 
-[![Resume](https://img.shields.io/badge/Dunna%20Rahul-RESUME-blue?style=for-the-badge&labelColor=1DA1F2&color=5865f2&logoColor=white)](https://drive.google.com/drive/u/2/folders/1sKveQ0XOYV6U3mMzCMdK2T79eK5VUen9)
+[![Resume](https://img.shields.io/badge/Rahul%20-RESUME-blue?style=for-the-badge&labelColor=1DA1F2&color=5865f2&logoColor=white)](https://drive.google.com/drive/u/2/folders/1sKveQ0XOYV6U3mMzCMdK2T79eK5VUen9)
 
 <br/>
 
